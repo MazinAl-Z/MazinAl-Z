@@ -1,3 +1,4 @@
+- <head>About me</head> <hr>
 - 👋 Hi, I’m Mazin Alzhrany
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning quantum computing, and pyhon
