@@ -7,7 +7,7 @@
         💞️ I’m collaborateing with <a href="twaiq academy">tuwaiq academy</a> <br>
         📫 You can reach me at : 
         <ul>
-        <li><a href="mailto:MazinAlzhrany@proton.me">📧 Email: MazinAlzhrany@proton.me</a>
+        <li><a href="https://twaiq academy" target="_blank">📧 Email: MazinAlzhrany@proton.me</a>
         </li>
         <li><a>📞 Discord : @mazinalzhrany</a></li>
     </ul>
