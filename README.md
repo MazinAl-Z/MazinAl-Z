@@ -1,4 +1,4 @@
-    <head><h1 align="center">About me</h1></head>
+<head><h1 align="center">About me</h1></head>
 <body>
     <p>
         👋 Hi, I’m Mazin Alzhrany <br>
