@@ -1,4 +1,4 @@
-- <head><h1 align="center">About me</h1></head> <hr>
+- <head><h1 align="center">About me</h1></head>
 - 👋 Hi, I’m Mazin Alzhrany
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning quantum computing, and pyhon
