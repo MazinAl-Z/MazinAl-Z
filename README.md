@@ -12,4 +12,5 @@
         <li><a>📞 Discord : @mazinalzhrany</a></li>
     </ul>
     </p>
+    <br> <video align="center" src='danceing.gif' width="500px" controls autoplay loop muted>
 </body>
